@@ -1,0 +1,17 @@
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.csproj.AssemblyReference.cache
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\HepsiburadaProjectMars.exe
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\HepsiburadaProjectMars.deps.json
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\HepsiburadaProjectMars.runtimeconfig.json
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\HepsiburadaProjectMars.runtimeconfig.dev.json
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\HepsiburadaProjectMars.dll
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\ref\HepsiburadaProjectMars.dll
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\HepsiburadaProjectMars.pdb
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.dll
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\ref\HepsiburadaProjectMars.dll
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.pdb
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\obj\Debug\net5.0\HepsiburadaProjectMars.genruntimeconfig.cache
+C:\Users\ozgur\source\repos\HepsiburadaProjectMars\HepsiburadaProjectMars\bin\Debug\net5.0\Data\Orders.txt
