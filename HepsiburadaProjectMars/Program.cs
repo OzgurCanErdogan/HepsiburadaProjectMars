@@ -13,9 +13,10 @@ namespace HepsiburadaProjectMars
             SurfaceArea surfaceArea = new SurfaceArea(new CardinalSystem(0, 0), orders.ZoneBorder);
             List<MarsRover> rovers = new List<MarsRover>();
             
+            //loops to create rovers.
             for (int i = 0; i < orders.Rovers.Count; i++)
             {
-                if (i >= orders.RoverOrders.Count)
+                if (i >= orders.RoverOrders.Count) //If number of orders are lower than rover number, adds empty orders to prevent crash.
                     orders.RoverOrders.Add("");
 
                 string order = orders.RoverOrders[i] == null ? "": orders.RoverOrders[i];
